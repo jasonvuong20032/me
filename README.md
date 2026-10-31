@@ -6,7 +6,7 @@
 
 [![Open to Internship](https://img.shields.io/badge/Open%20to-Internship-2ea44f?style=for-the-badge)](#-career-objective)
 [![Experience: FPT Software](https://img.shields.io/badge/Experience-FPT%20Software-F27024?style=for-the-badge)](#-experience)
-[![Certificates: 5](https://img.shields.io/badge/Certificates-5-0A66C2?style=for-the-badge)](https://github.com/jasonvuong20032/certificate-portfolio)
+[![Certificates: 5](https://img.shields.io/badge/Certificates-5-0A66C2?style=for-the-badge)](https://github.com/jasonvuong20032/certificate)
 
 [![GitHub](https://img.shields.io/badge/GitHub-jasonvuong20032-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jasonvuong20032)
 [![Email](https://img.shields.io/badge/Email-jasonvuong1512%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jasonvuong1512@gmail.com)
@@ -35,10 +35,10 @@
 | | Links |
 |---|---|
 | 💼 **Experience** | [Internship at FPT Software](#-experience) |
-| 🚀 **VQT Japanese Food** | [Source code](https://github.com/jasonvuong20032/vqt-japanese-food) · [Project write-up](projects/vqt-japanese-food.md) |
-| 📚 **Project documentation** | [ERD](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/erd.md) · [Sequence diagrams](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/sequence-diagrams.md) · [Use cases](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/use-cases.md) · [Architecture](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/architecture.md) · [Admin guide](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/admin-guide.md) |
-| 🏅 **Certificate portfolio** | [All certificates with descriptions](https://github.com/jasonvuong20032/certificate-portfolio) |
-| 📜 **Certificates** | [CS50P (Harvard)](https://github.com/jasonvuong20032/certificate-portfolio#1-cs50s-introduction-to-programming-with-python-cs50p) · [SQL (Intermediate)](https://github.com/jasonvuong20032/certificate-portfolio#2-sql-intermediate) · [SQL (Basic)](https://github.com/jasonvuong20032/certificate-portfolio#3-sql-basic) · [JavaScript (Intermediate)](https://github.com/jasonvuong20032/certificate-portfolio#4-javascript-intermediate) · [JavaScript (Basic)](https://github.com/jasonvuong20032/certificate-portfolio#5-javascript-basic) |
+| 🚀 **VQT Japanese Food** | [Source code](https://github.com/jasonvuong20032/portfolio) · [Project write-up](projects/vqt-japanese-food.md) |
+| 📚 **Project documentation** | [ERD](https://github.com/jasonvuong20032/portfolio/blob/main/docs/erd.md) · [Sequence diagrams](https://github.com/jasonvuong20032/portfolio/blob/main/docs/sequence-diagrams.md) · [Use cases](https://github.com/jasonvuong20032/portfolio/blob/main/docs/use-cases.md) · [Architecture](https://github.com/jasonvuong20032/portfolio/blob/main/docs/architecture.md) · [Admin guide](https://github.com/jasonvuong20032/portfolio/blob/main/docs/admin-guide.md) |
+| 🏅 **Certificate portfolio** | [All certificates with descriptions](https://github.com/jasonvuong20032/certificate) |
+| 📜 **Certificates** | [CS50P (Harvard)](https://github.com/jasonvuong20032/certificate#1-cs50s-introduction-to-programming-with-python-cs50p) · [SQL (Intermediate)](https://github.com/jasonvuong20032/certificate#2-sql-intermediate) · [SQL (Basic)](https://github.com/jasonvuong20032/certificate#3-sql-basic) · [JavaScript (Intermediate)](https://github.com/jasonvuong20032/certificate#4-javascript-intermediate) · [JavaScript (Basic)](https://github.com/jasonvuong20032/certificate#5-javascript-basic) |
 
 ---
 
@@ -122,7 +122,7 @@ A full-stack e-commerce web application for a Japanese food store in Vietnam, re
 </div>
 
 > [!TIP]
-> **Explore it:** [Source code](https://github.com/jasonvuong20032/vqt-japanese-food) · [How it works and how to run it](projects/vqt-japanese-food.md) · [ERD](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/erd.md) · [Sequence diagrams](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/sequence-diagrams.md) · [Use cases](https://github.com/jasonvuong20032/vqt-japanese-food/blob/main/docs/use-cases.md)
+> **Explore it:** [Source code](https://github.com/jasonvuong20032/portfolio) · [How it works and how to run it](projects/vqt-japanese-food.md) · [ERD](https://github.com/jasonvuong20032/portfolio/blob/main/docs/erd.md) · [Sequence diagrams](https://github.com/jasonvuong20032/portfolio/blob/main/docs/sequence-diagrams.md) · [Use cases](https://github.com/jasonvuong20032/portfolio/blob/main/docs/use-cases.md)
 
 - **Layered architecture** (controllers → service layer → EF Core → SQL Server) with a **24-table database**: order lines that snapshot prices, order status history, and translation tables for five languages.
 - **Secure checkout:** prices and totals are recalculated on the server, and stock is reserved with conditional updates inside a transaction so the last item can never be sold twice.
@@ -146,15 +146,15 @@ A full-stack e-commerce web application for a Japanese food store in Vietnam, re
 
 ## 🏅 Certifications
 
-📜 **Full certificate portfolio:** [github.com/jasonvuong20032/certificate-portfolio](https://github.com/jasonvuong20032/certificate-portfolio): every certificate with what it covers, why it matters and a verification link.
+📜 **Full certificate portfolio:** [github.com/jasonvuong20032/certificate](https://github.com/jasonvuong20032/certificate): every certificate with what it covers, why it matters and a verification link.
 
 | Certificate | Issuer | Date | Verify |
 |---|:---:|:---:|:---:|
-| [**CS50's Introduction to Programming with Python**](https://github.com/jasonvuong20032/certificate-portfolio#1-cs50s-introduction-to-programming-with-python-cs50p) | Harvard University (CS50) | 2026 | [Verify](https://cs50.harvard.edu/certificates/a8743d2b-c34a-4c6c-b58d-bf0da919654f) |
-| [**SQL (Intermediate)**](https://github.com/jasonvuong20032/certificate-portfolio#2-sql-intermediate) | HackerRank | 29 Mar 2026 | [Verify](https://www.hackerrank.com/certificates/f6708c1d8d4b) |
-| [**SQL (Basic)**](https://github.com/jasonvuong20032/certificate-portfolio#3-sql-basic) | HackerRank | 29 Mar 2026 | [Verify](https://www.hackerrank.com/certificates/f2cf09ae31e4) |
-| [**JavaScript (Intermediate)**](https://github.com/jasonvuong20032/certificate-portfolio#4-javascript-intermediate) | HackerRank | 27 Oct 2025 | [Verify](https://www.hackerrank.com/certificates/e31f1c72abbd) |
-| [**JavaScript (Basic)**](https://github.com/jasonvuong20032/certificate-portfolio#5-javascript-basic) | HackerRank | 25 Oct 2025 | [Verify](https://www.hackerrank.com/certificates/2911fc05a883) |
+| [**CS50's Introduction to Programming with Python**](https://github.com/jasonvuong20032/certificate#1-cs50s-introduction-to-programming-with-python-cs50p) | Harvard University (CS50) | 2026 | [Verify](https://cs50.harvard.edu/certificates/a8743d2b-c34a-4c6c-b58d-bf0da919654f) |
+| [**SQL (Intermediate)**](https://github.com/jasonvuong20032/certificate#2-sql-intermediate) | HackerRank | 29 Mar 2026 | [Verify](https://www.hackerrank.com/certificates/f6708c1d8d4b) |
+| [**SQL (Basic)**](https://github.com/jasonvuong20032/certificate#3-sql-basic) | HackerRank | 29 Mar 2026 | [Verify](https://www.hackerrank.com/certificates/f2cf09ae31e4) |
+| [**JavaScript (Intermediate)**](https://github.com/jasonvuong20032/certificate#4-javascript-intermediate) | HackerRank | 27 Oct 2025 | [Verify](https://www.hackerrank.com/certificates/e31f1c72abbd) |
+| [**JavaScript (Basic)**](https://github.com/jasonvuong20032/certificate#5-javascript-basic) | HackerRank | 25 Oct 2025 | [Verify](https://www.hackerrank.com/certificates/2911fc05a883) |
 
 ---
 
