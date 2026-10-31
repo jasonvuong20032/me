@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vuong Quang Tuan
 
-**Computing Graduate (UK Honours, 2:2) · Former Intern at FPT Software · .NET & Web Developer**
+**Information Technology Graduate (UK Honours, 2:2) · Former Intern at FPT Software · .NET & Web Developer**
 
 [![Open to Internship](https://img.shields.io/badge/Open%20to-Internship-2ea44f?style=for-the-badge)](#-career-objective)
 [![Experience: FPT Software](https://img.shields.io/badge/Experience-FPT%20Software-F27024?style=for-the-badge)](#-experience)
@@ -26,7 +26,7 @@
 | 🧪 | Raised test coverage of the authentication service from **0% to ~90%** |
 | 🍣 | Built **VQT Japanese Food**, a full-stack store (**ASP.NET Core 9 + React 19**) with **132 automated tests** and full UML documentation |
 | 📜 | **5 certificates**: Harvard **CS50P**, HackerRank **SQL** and **JavaScript** (Basic + Intermediate) |
-| 🎓 | **Computing graduate** with a UK honours degree (**Second-Class Honours, Lower Division**) |
+| 🎓 | **Information Technology graduate** (University of Greenwich, Vietnam) with a UK honours degree (**Second-Class Honours, Lower Division**) |
 
 ---
 
@@ -46,7 +46,7 @@
 
 <div align="justify">
 
-I'm a **Computing graduate** with a UK honours degree (**Second-Class Honours, Lower Division – 2:2**) and a strong focus on **web development with .NET**.
+I'm an **Information Technology graduate** from the **University of Greenwich (Vietnam)** with a UK honours degree (**Second-Class Honours, Lower Division – 2:2**) and a strong focus on **web development with .NET**.
 
 I completed an **internship at FPT Software**, where I worked on a team building an e-commerce and online-auction platform as **.NET 8 microservices**. I was the **main developer of the User Service** (authentication, roles and privileges, seller verification and a reputation system) and also contributed to the **Commerce** and **Auction** services.
 
@@ -117,7 +117,7 @@ A team project: an e-commerce and online-auction marketplace built as **.NET 8 m
 
 <div align="justify">
 
-A full-stack e-commerce web application for a Japanese food store in Vietnam, rebuilt from a classic ASP.NET MVC site into a **React single-page app** on an **ASP.NET Core 9 Web API** (personal project, 2026).
+A full-stack e-commerce web application for a Japanese food store in Vietnam, rebuilt from a classic ASP.NET MVC site into a **React single-page app** on an **ASP.NET Core 9 Web API** (personal project, Aug 2026 – Oct 2026).
 
 </div>
 
@@ -134,6 +134,15 @@ A full-stack e-commerce web application for a Japanese food store in Vietnam, re
 **Tech:** C# · .NET 9 · ASP.NET Core Web API · EF Core 9 · SQL Server · React 19 · TypeScript · Vite · Tailwind CSS 4 · TanStack Query · i18next · xUnit · Vitest
 
 ---
+
+## 🎓 Education
+
+**University of Greenwich (Vietnam)** · **Information Technology** · Aug 2022 – Aug 2026
+- Second-Class Honours, Lower Division (UK honours degree)
+- 🏆 Best Student, English Level 2 class – Summer Semester 2022 (Oct 2022)
+- 🌐 English: **VSTEP B2** (Mar 2024)
+
+* * *
 
 ## 🏅 Certifications
 
